@@ -1,4 +1,7 @@
------BEGIN PUBLIC KEY-----
-MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAPpsyJiqVPGpJ77h15fHxwdpt46Nw6Ep
-L2YBbl9Or7kPBKTjGX57UAiZ8KaYDT2kbiu7sksFOBX/4Rjz75nkvbECAwEAAQ==
------END PUBLIC KEY-----
+{
+  "kty": "RSA",
+  "n": "-mzImKpU8aknvuHXl8fHB2m3jo3DoSkvZgFuX06vuQ8EpOMZfntQCJnwppgNPaRuK7uySwU4Ff_hGPPvmeS9sQ",
+  "e": "AQAB",
+  "alg": "RS256",
+  "use": "sig"
+}
