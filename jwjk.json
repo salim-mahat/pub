@@ -3,5 +3,6 @@
   "n": "-mzImKpU8aknvuHXl8fHB2m3jo3DoSkvZgFuX06vuQ8EpOMZfntQCJnwppgNPaRuK7uySwU4Ff_hGPPvmeS9sQ",
   "e": "AQAB",
   "alg": "RS256",
+  "kid": "102030",
   "use": "sig"
 }
